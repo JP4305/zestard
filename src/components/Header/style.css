@@ -1,0 +1,7 @@
+h4{
+    @apply text-xs mb-2;
+}
+
+.sub-menu{
+    @apply normal-case text-xl tracking-wide text-gray-500;
+}

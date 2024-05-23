@@ -1,0 +1,7 @@
+h4{
+    @apply font-bold mb-4 text-3xl;
+}
+
+ul{
+    @apply text-xs;
+}
